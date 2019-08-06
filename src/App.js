@@ -5,6 +5,10 @@ import './App.css';
 function App() {
   return (
     <div class="container">
+      <div class="row">
+     <div class="col-md-3">
+
+     </div>
 	   <div class="col-md-6">
 	      <form method="post" action="#" id="#">
           
@@ -14,6 +18,10 @@ function App() {
           </div>
         
         </form>
+      </div>
+      <div class="col-md-3">
+       
+     </div>
       </div>
     </div>
   );
