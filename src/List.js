@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import MultiSelect from "@kenshooui/react-multi-select";
+import "@kenshooui/react-multi-select/dist/style.css"
 
 class List extends Component {
   constructor(props) {
